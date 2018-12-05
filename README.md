@@ -1,6 +1,6 @@
 # Java Water Sales Automation Software
 
-This project is developed using Java Swing for the desktop usage of small and medium sized enterprises. This program enables the corporations to sale their drinking water products. 
+This project is developed using Java Swing for the desktop usage of small and medium sized enterprises. This program enables the corporations to sell their drinking water products. 
 
 
 # Functionalities of the Software
