@@ -16,7 +16,7 @@ This project is developed using Java Swing for the desktop usage of small and me
 ## Database
 
 MySQL is used in the project. XAMPP software is used to host database locally. 
-Customer and order table keeps the data.
+Customer and order table keep the data.
 
 ## Screenshots
 
