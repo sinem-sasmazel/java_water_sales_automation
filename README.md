@@ -20,7 +20,5 @@ Customer and order table keeps the data.
 
 ## Screenshots
 
-<a href=" https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/mainFrame.png
-" target="_blank">
-<img src="https://github.com/hakanozer/java_sample_work/blob/master/png/3.png" width="200" style="max-width:100%;">
-</a>
+![alt text](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/mainFrame.png)
+
