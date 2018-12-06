@@ -54,7 +54,7 @@ public class mainFrame extends javax.swing.JFrame {
         dtmo.addColumn("Amount");
         tableDisplay();
         nwo.orderDisplay();
-        
+        /* comment */
         
     }
 
