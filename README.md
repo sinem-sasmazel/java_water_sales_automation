@@ -20,5 +20,7 @@ Customer and order table keep the data.
 
 ## Screenshots
 
-![alt text](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/mainFrame.png)
-
+![MainFrame](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/mainFrame.png)
+![NewCustomer](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/NewCustomer.png)
+![NewOrder](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/NewOrder.png)
+![UpdateCustomer](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/UpdateCustomer.png)
